@@ -14,7 +14,7 @@
 <br>
 <a href="https://github.com/eriquerocha">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eriquerocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-&emsp;<img alt="erique-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/721639814008406057/965608093784350780/hehe.gif">
+&emsp;<img alt="erique-pic" height="180" src="https://cdn.discordapp.com/attachments/721639814008406057/965608093784350780/hehe.gif">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquerocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
