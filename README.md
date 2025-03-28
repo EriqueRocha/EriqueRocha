@@ -1,8 +1,5 @@
-## Erique Rocha, Desenvolvedor back-end e Android
+## Erique Rocha, Desenvolvedor back-end
 <div align="center">
-<br>
-<br>
-🐱‍👤 - focado em estudar Java e Kotlin
 <br>
 <br>
 <a href="https://www.instagram.com/eriquerocha_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
