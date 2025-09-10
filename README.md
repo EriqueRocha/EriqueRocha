@@ -6,7 +6,8 @@
 <br>
 <br>
 <a href="https://github.com/eriquerocha">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EriqueRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EriqueRocha&theme=github-dark-dimmed&custom_title=Mate's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriqueRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
           
