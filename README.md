@@ -1,4 +1,7 @@
-## Erique Rocha, Desenvolvedor back-end
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&center=true&vCenter=true&repeat=false&width=860&lines=Erique+Rocha)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&center=true&vCenter=true&repeat=false&width=860&lines=Desenvolvedor+back-end)](https://git.io/typing-svg)
+
 <div align="center">
 <br>
 <br>
