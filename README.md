@@ -19,6 +19,6 @@
 </br>
 <div align="center" style="display: inline_block">
     <h3 align="center">Contador de visitas</h3>
-  <img src="https://count.getloli.com/@EriqueRocha?theme=capoo-2" alt="Count" />
+  <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
 </div>
 
