@@ -1,13 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&center=true&vCenter=true&repeat=false&width=860&lines=Erique+Rocha)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&center=true&vCenter=true&repeat=false&width=860&lines=Desenvolvedor+back-end)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=2000&color=F7F7F7&width=600&height=60&lines=Erique+Rocha%2C+developer)](https://git.io/typing-svg)
 <div align="center">
 <br>
 <br>
 <a href="https://github.com/eriquerocha">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EriqueRocha&theme=github-dark-dimmed&custom_title=Mate's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriqueRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
           
@@ -26,3 +21,4 @@
   <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
