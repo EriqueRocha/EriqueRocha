@@ -9,6 +9,9 @@
 <a href="https://github.com/eriquerocha">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriqueRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
           
 <h3 align="center">Conhecimentos/Habilidades</h3>
   <div align="center" style="display: inline_block">
