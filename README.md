@@ -7,6 +7,8 @@
   <sub>fullstack developer · back-end focused </sub>
 </p>
 
+---
+
 <div align="center">
 <br>
 <br>
