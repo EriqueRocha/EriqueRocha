@@ -25,7 +25,6 @@ Properties   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
 <div align="center">
   <table>
     <tr>
@@ -74,9 +73,4 @@ Properties   0 secs          ░░░░░░░░░░░░░░░░░
     </tr>
   </table>
 </div>
-
-
-          
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
