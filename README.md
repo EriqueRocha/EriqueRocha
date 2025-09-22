@@ -11,14 +11,14 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 19 September 2025 - To: 21 September 2025
+```java vue rust kotlin dart javascript terraform
+From: 19 September 2025 - To: 22 September 2025
 
-Total Time: 6 hrs 4 mins
+Total Time: 7 hrs 43 mins
 
-Java         5 hrs 4 mins    █████████████████████░░░░   83.65 %
-Dart         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java         5 hrs 27 mins   █████████████████▓░░░░░░░   70.69 %
+Dart         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
