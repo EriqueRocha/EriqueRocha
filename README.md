@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 19 September 2025 - To: 22 September 2025
 
 Total Time: 7 hrs 43 mins
