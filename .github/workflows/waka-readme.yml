@@ -19,5 +19,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          CODE_LANG: java vue rust kotlin dart javascript terraform
           IGNORED_LANGUAGES: YAML JSON TOML HCL XML CSS HTML Properties
