@@ -12,15 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2025 - To: 20 September 2025
+From: 19 September 2025 - To: 21 September 2025
 
-Total Time: 2 hrs 36 mins
+Total Time: 6 hrs 4 mins
 
-Java         2 hrs 28 mins   ███████████████████████▓░   95.16 %
-Dart         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-HCL          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java         5 hrs 4 mins    █████████████████████░░░░   83.65 %
+Dart         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
