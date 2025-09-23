@@ -20,4 +20,4 @@ jobs:
           CODE_LANG: rust
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML Properties HCL
+          IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
