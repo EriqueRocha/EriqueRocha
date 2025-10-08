@@ -51,7 +51,7 @@ Vue.js            2 hrs 21 mins   ▓░░░░░░░░░░░░░░�
             </div>
             </br>
             <div align="center" style="display: inline_block">
-              <h3 align="center">Contador de visitas</h3>
+              <h3 align="center">Visitor counter</h3>
               <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
             </div>
           </td>
