@@ -22,3 +22,5 @@ jobs:
           SHOW_MASKED_TIME: true
           IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
           LANG_COUNT: 7
+          SHOW_OS: true
+          SHOW_EDITORS: true
