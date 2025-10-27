@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 September 2025 - To: 24 October 2025
+From: 19 September 2025 - To: 25 October 2025
 
-Total Time: 135 hrs 28 mins
+Total Time: 140 hrs 34 mins
 
-Java              59 hrs 36 mins  ███████████░░░░░░░░░░░░░░   44.00 %
-Dart              14 hrs 3 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Rust              10 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Python            9 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Terraform         7 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-JavaScript        6 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Java              59 hrs 36 mins  ██████████▓░░░░░░░░░░░░░░   42.41 %
+Dart              14 hrs 3 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Python            12 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Rust              10 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Terraform         7 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JavaScript        6 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->
