@@ -9,6 +9,11 @@
 
 ---
 
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="200" height="200" src="cat-23414_256.gif" alt="">
+</picture>
+
 <!--START_SECTION:waka-->
 
 ```rust
