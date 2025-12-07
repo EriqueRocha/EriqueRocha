@@ -31,36 +31,12 @@ Terraform         8 hrs 26 mins   ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
+  <h3>💻 Tech Stack</h3>
+</div>
+<div align="center">
       <table>
         <tr>
           <td width="50%">
-            <div align="center">
-              <a href="https://github.com/eriquerocha">
-                <img height="180em"
-                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriqueRocha&layout=compact&langs_count=7&theme=dark" />
-              </a>
-            </div>
-            <h3 align="center">Conhecimentos/Habilidades</h3>
-            <div align="center" style="display: inline_block">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-            </div>
-            </br>
-            <div align="center" style="display: inline_block">
-              <h3 align="center">Visitor counter</h3>
-              <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
-            </div>
-          </td>
-          <td width="50%">
-            <h3>💻 Tech Stack</h3>
             <p><strong>--- Back-end ---</strong></p>
             <ul>
               <li>Spring Boot (Web, Data JPA, Security with JWT, Actuator)</li>
@@ -74,6 +50,8 @@ Terraform         8 hrs 26 mins   ▓░░░░░░░░░░░░░░�
               <li>Modern Architectures: hexagonal architecture, event-driven architecture, SQS queues</li>
               <li>Automated testing with JUnit and Mockito</li>
             </ul>
+          </td>
+          <td width="50%">
             <p><strong>--- Front-end ---</strong></p>
             <ul>
               <li>Vue 3 (Composition API, reactivity system, lifecycle hooks)</li>
@@ -90,5 +68,24 @@ Terraform         8 hrs 26 mins   ▓░░░░░░░░░░░░░░�
           </td>
         </tr>
       </table>
+    </div>
+    <div align="center">
+                  <h3 align="center">Conhecimentos/Habilidades</h3>
+            <div align="center" style="display: inline_block">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            </div>
+                  <div align="center" style="display: inline_block">
+              <h3 align="center">Visitor counter</h3>
+              <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
+            </div>
     </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
