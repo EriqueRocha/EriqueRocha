@@ -31,7 +31,7 @@ Terraform         8 hrs 26 mins   ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <h3>💻 Tech Stack</h3>
+  <h3>Tech Stack</h3>
 </div>
 <div align="center">
       <table>
@@ -44,7 +44,6 @@ Terraform         8 hrs 26 mins   ▓░░░░░░░░░░░░░░�
               <li>ORM with Hibernate, advanced queries (JPQL, Criteria, Native Queries)</li>
               <li>Pagination and sorting with Pageable</li>
               <li>Flyway and Liquibase for database versioning</li>
-              <li>Maven for dependency management and MapStruct for efficient DTO mapping</li>
               <li>AWS S3 integrations for file storage</li>
               <li>AWS Lambda for serverless processing</li>
               <li>Modern Architectures: hexagonal architecture, event-driven architecture, SQS queues</li>
