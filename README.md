@@ -69,23 +69,23 @@ Terraform          26 hrs 9 mins         ▓░░░░░░░░░░░░
         </tr>
       </table>
     </div>
-    <div align="center">
-                  <h3 align="center">Conhecimentos/Habilidades</h3>
-            <div align="center" style="display: inline_block">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-            </div>
-                  <div align="center" style="display: inline_block">
-              <h3 align="center">Visitor counter</h3>
-              <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
-            </div>
-    </div>
+    
+<h3 align="center">Conhecimentos/Habilidades</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+</div>
+
+<h3 align="center">Visitor counter</h3>
+<p align="center">
+  <img src="https://count.getloli.com/@EriqueRocha?theme=morden-num" alt="Count" />
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
